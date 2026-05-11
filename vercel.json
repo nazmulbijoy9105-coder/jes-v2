@@ -1,6 +1,4 @@
 {
-  "version": 2,
-  "builds": [{ "src": "package.json", "use": "@vercel/next" }],
   "crons": [
     { "path": "/api/cron/reset-query-counts", "schedule": "0 0 * * *" }
   ]
