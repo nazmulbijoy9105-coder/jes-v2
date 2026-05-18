@@ -1,0 +1,7 @@
+scripts/
+.env.local
+.env.local.template
+README.md
+FIX_LOG.md
+FEATURE_MAP.md
+deploy.sh
